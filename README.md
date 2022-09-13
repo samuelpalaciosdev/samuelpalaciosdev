@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **Typescript and Python**
+- 🌱 I’m currently learning **Typescript, Nextjs and Tailwind**
 
 - 📫 How to reach me **samuelpl0888@gmail.com**
 
