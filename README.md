@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **Nextjs, Node.js**
+- 🌱 I’m currently learning **Node.js and Express**
 
 - 📫 How to reach me **samuelpl0888@gmail.com**
 
