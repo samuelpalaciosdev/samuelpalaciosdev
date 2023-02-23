@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently mastering **React** and learning **Express**
+- 🌱 I’m currently mastering **React** and learning **Typescript**
 
 - 📫 How to reach me **samuelpl0888@gmail.com**
 
